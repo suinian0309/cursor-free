@@ -178,19 +178,19 @@ We're experiencing high demand for Claude 3.7 Sonnet right now. Please upgrade t
 **macOS**
 
 ```bash
-curl -fsSL https://aizaozao.com/accelerate.php/https://raw.githubusercontent.com/yuaotian/go-cursor-help/refs/heads/master/scripts/run/cursor_mac_id_modifier.sh | sudo bash
+curl -fsSL https://aizaozao.com/accelerate.php/https://raw.githubusercontent.com/suinian0309/cursor-free/refs/heads/main/scripts/run/cursor_mac_id_modifier.sh | sudo bash
 ```
 
 **Linux**
 
 ```bash
-curl -fsSL https://aizaozao.com/accelerate.php/https://raw.githubusercontent.com/yuaotian/go-cursor-help/refs/heads/master/scripts/run/cursor_linux_id_modifier.sh | sudo bash
+curl -fsSL https://aizaozao.com/accelerate.php/https://raw.githubusercontent.com/suinian0309/cursor-free/refs/heads/main/scripts/run/cursor_linux_id_modifier.sh | sudo bash
 ```
 
 **Windows**
 
 ```powershell
-irm https://aizaozao.com/accelerate.php/https://raw.githubusercontent.com/yuaotian/go-cursor-help/refs/heads/master/scripts/run/cursor_win_id_modifier.ps1 | iex
+irm https://aizaozao.com/accelerate.php/https://raw.githubusercontent.com/suinian0309/cursor-free/refs/heads/main/scripts/run/cursor_win_id_modifier.ps1 | iex
 ```
 <div align="center">
 <img src="img/run_success.png" alt="运行成功" width="600"/>
@@ -220,7 +220,7 @@ irm https://aizaozao.com/accelerate.php/https://raw.githubusercontent.com/yuaoti
    或在打开的窗口中输入: Start-Process pwsh -Verb RunAs
 4. 在管理员终端中输入以下重置脚本:
 
-irm https://aizaozao.com/accelerate.php/https://raw.githubusercontent.com/yuaotian/go-cursor-help/refs/heads/master/scripts/run/cursor_win_id_modifier.ps1 | iex
+irm https://aizaozao.com/accelerate.php/https://raw.githubusercontent.com/suinian0309/cursor-free/refs/heads/main/scripts/run/cursor_win_id_modifier.ps1 | iex
 ```
 
 ##### 方法三：通过搜索启动
@@ -231,7 +231,7 @@ irm https://aizaozao.com/accelerate.php/https://raw.githubusercontent.com/yuaoti
 
 在管理员终端中输入重置脚本:
 ```powershell
-irm https://aizaozao.com/accelerate.php/https://raw.githubusercontent.com/yuaotian/go-cursor-help/refs/heads/master/scripts/run/cursor_win_id_modifier.ps1 | iex
+irm https://aizaozao.com/accelerate.php/https://raw.githubusercontent.com/suinian0309/cursor-free/refs/heads/main/scripts/run/cursor_win_id_modifier.ps1 | iex
 ```
 
 ### 🔧 PowerShell 安装指南

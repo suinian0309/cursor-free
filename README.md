@@ -246,19 +246,19 @@ If you see the "High Load" message for Claude 3.7 Sonnet, this indicates Cursor 
 **macOS**
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/yuaotian/go-cursor-help/refs/heads/master/scripts/run/cursor_mac_id_modifier.sh | sudo bash 
+curl -fsSL https://raw.githubusercontent.com/suinian0309/cursor-free/refs/heads/main/scripts/run/cursor_mac_id_modifier.sh | sudo bash 
 ```
 
 **Linux**
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/yuaotian/go-cursor-help/refs/heads/master/scripts/run/cursor_linux_id_modifier.sh | sudo bash 
+curl -fsSL https://raw.githubusercontent.com/suinian0309/cursor-free/refs/heads/main/scripts/run/cursor_linux_id_modifier.sh | sudo bash 
 ```
 
 **Windows**
 
 ```powershell
-irm https://raw.githubusercontent.com/yuaotian/go-cursor-help/refs/heads/master/scripts/run/cursor_win_id_modifier.ps1 | iex
+irm https://raw.githubusercontent.com/suinian0309/cursor-free/refs/heads/main/scripts/run/cursor_win_id_modifier.ps1 | iex
 ```
 
 <div align="center">
@@ -273,19 +273,19 @@ irm https://raw.githubusercontent.com/yuaotian/go-cursor-help/refs/heads/master/
 **macOS**
 
 ```bash
-curl -fsSL https://aizaozao.com/accelerate.php/https://raw.githubusercontent.com/yuaotian/go-cursor-help/refs/heads/master/scripts/run/cursor_mac_id_modifier.sh | sudo bash
+curl -fsSL https://aizaozao.com/accelerate.php/https://raw.githubusercontent.com/suinian0309/cursor-free/refs/heads/main/scripts/run/cursor_mac_id_modifier.sh | sudo bash
 ```
 
 **Linux**
 
 ```bash
-curl -fsSL https://aizaozao.com/accelerate.php/https://raw.githubusercontent.com/yuaotian/go-cursor-help/refs/heads/master/scripts/run/cursor_linux_id_modifier.sh | sudo bash
+curl -fsSL https://aizaozao.com/accelerate.php/https://raw.githubusercontent.com/suinian0309/cursor-free/refs/heads/main/scripts/run/cursor_linux_id_modifier.sh | sudo bash
 ```
 
 **Windows**
 
 ```powershell
-irm https://aizaozao.com/accelerate.php/https://raw.githubusercontent.com/yuaotian/go-cursor-help/refs/heads/master/scripts/run/cursor_win_id_modifier.ps1 | iex
+irm https://aizaozao.com/accelerate.php/https://raw.githubusercontent.com/suinian0309/cursor-free/refs/heads/main/scripts/run/cursor_win_id_modifier.ps1 | iex
 ```
 
 </details>
@@ -313,7 +313,7 @@ irm https://aizaozao.com/accelerate.php/https://raw.githubusercontent.com/yuaoti
    or type in the opened window: Start-Process pwsh -Verb RunAs
 4. Enter the reset script in the administrator terminal:
 
-irm https://aizaozao.com/accelerate.php/https://raw.githubusercontent.com/yuaotian/go-cursor-help/refs/heads/master/scripts/run/cursor_win_id_modifier.ps1 | iex
+irm https://aizaozao.com/accelerate.php/https://raw.githubusercontent.com/suinian0309/cursor-free/refs/heads/main/scripts/run/cursor_win_id_modifier.ps1 | iex
 ```
 
 ##### Method 3: Using Search
@@ -324,7 +324,7 @@ irm https://aizaozao.com/accelerate.php/https://raw.githubusercontent.com/yuaoti
 
 Enter the reset script in the administrator terminal:
 ```powershell
-irm https://aizaozao.com/accelerate.php/https://raw.githubusercontent.com/yuaotian/go-cursor-help/refs/heads/master/scripts/run/cursor_win_id_modifier.ps1 | iex
+irm https://aizaozao.com/accelerate.php/https://raw.githubusercontent.com/suinian0309/cursor-free/refs/heads/main/scripts/run/cursor_win_id_modifier.ps1 | iex
 ```
 
 ### 🔧 PowerShell Installation Guide 
